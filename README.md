@@ -9,6 +9,7 @@ MyOfficeAPI Backend Exam
 1. Clone 此專案：
    
    git clone https://github.com/qwe0088978/BackendExam.git
+   
    cd BackendExam
    
 2.還原資料庫
